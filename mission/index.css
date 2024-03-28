@@ -41,6 +41,7 @@ header .header__location-info {
 header .header__location-info span {
   font-size: 18px;
   font-weight: 700;
+  line-height: 28px;
 }
 
 header .header__icons {
@@ -81,6 +82,7 @@ header .header__icons {
 .product__info .product__info__title {
   font-size: 16px;
   font-weight: 400;
+  line-height: 20px;
 }
 
 .product__info .product__info--location-date span {
